@@ -1,6 +1,7 @@
 ---
-title:如何配置start.sh
+title: 如何配置 start.sh
 ---
+
 :::info
 这里只暂时演示Forge 1.19.2 服务端
 
